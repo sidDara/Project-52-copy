@@ -1,0 +1,102 @@
+.header{
+      
+    background-color:white;
+    border:solid;
+     }
+
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display:flex;
+    justify-content:center;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+
+  .menu {
+      text-align:center
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    font-family:"Papyrus", fantasy;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    font-family:"Papyrus", fantasy;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    font-family:"Papyrus", fantasy;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    font-family:"Papyrus", fantasy;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    font-family:"Papyrus", fantasy;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    font-family:"Papyrus", fantasy;
+  }
+
+
+  a:link{
+    color: red
+  }
+
+  a:visited{
+    color: orange
+  }
+
+  .origami:hover{
+    opacity:0.3;
+    transform:scale(1.04);
+  }
+
+  
